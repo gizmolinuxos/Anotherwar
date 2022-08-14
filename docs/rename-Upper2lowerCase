@@ -1,0 +1,4 @@
+
+# "Rename all files in Dir from UpperCase to lowercase ... "
+
+find . -depth -type f | xargs -n 1 rename 's/(.*)\/([^\/]*)/$1\/\L$2/' {} \;

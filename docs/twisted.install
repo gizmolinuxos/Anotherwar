@@ -1,0 +1,7 @@
+!#/bin/sh
+
+# Enter command to install twisted using root permission ::
+
+sudo pip install twisted
+
+# Enter user password after prompt ::

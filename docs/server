@@ -1,0 +1,19 @@
+For the Server::
+---------------
+Open a new terminal in the net Dir and type the commands needed::
+
+   python server.py
+or
+   python3 server.py
+
+Or 2 clients::
+   python main.py localhost &
+   python3 main.py localhost &
+
+You can also connect on your LAN if you know the local IP address::
+   python main.py <192.168.1.100>
+
+You can run it standalone choose either one::
+   python3 main.py localhost
+or
+   python3 main.py

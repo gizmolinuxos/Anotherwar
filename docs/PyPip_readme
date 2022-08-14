@@ -1,0 +1,21 @@
+# When Python/Python3 is installed pip/pip3 should include :
+    Pip
+    Os
+    Sys
+    Random
+    Time
+    Csv
+    Timeit
+    Subprocess
+    Array
+# If not included, pip install command :
+    Tkinter
+    Numpy
+    PyAutoGUI
+    PyWaveFront
+    Psutil
+    Pillow
+# Game Engines require OpenGl/OpenAl, Pygame is a Python Game Engine :
+
+    PyOpenGL
+    Pygame

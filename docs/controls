@@ -1,0 +1,23 @@
+# Controls:
+
+- 1-9 or mouse wheel to select the inventory.
+- WASD to move forward, left, backward, right.
+- Tab to free look/fly
+- Space to jump. Double-tap to toggle between walking and climbing 
+- Ctrl to crouch, prone.
+- Shift to sprint
+- M to start and stop music
+- Z to zoom.
+- F to show the scene mode.
+- O to observe players in the main view.
+- P to observe players in the picture-in-picture view.
+- T or Enter to type text into chat
+- Forward slash (/) to enter a command.
+- Backquote (`) to write text
+- Arrow keys emulate mouse movement.
+- `[` emulates left mouse click.
+- `]` emulates right mouse click.
+- 
+-Enter to toggle Main menu
+- F3 to Turn on/off FPS rates.
+- F5 to Save Game.

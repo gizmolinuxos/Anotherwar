@@ -1,0 +1,1 @@
+pip install --upgrade pip pyglet pygame pygame-menu pyopengl transmitter cython nested numpy leveldb pillow opensimplex PyShaders tqdm pyglm ratcave glfw

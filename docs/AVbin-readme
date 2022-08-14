@@ -1,0 +1,8 @@
+
+# Change -linux-x86-64-v10 to correct version if needed.
+
+# wget https://github.com/downloads/AVbin/AVbin/install-avbin-linux-x86-64-v10
+
+# Enter command in console/terminal :
+
+sudo install-avbin-linux-x86-64-v10

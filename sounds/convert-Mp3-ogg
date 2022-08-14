@@ -1,0 +1,9 @@
+
+# " Enter command below into terminal with correct dirs naming for .ogg "
+# " Change *.mp3 and *.ogg into corrct dirs naming "
+# " CONVERT .wav .mp3 .ogg "
+
+
+
+#         !Change!                        !change!
+ffmpeg -i music.mp3 -c:a libvorbis -q:a 4 music.ogg

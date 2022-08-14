@@ -1,0 +1,9 @@
+self.save_path = pyglet.resource.get_settings_path('AnotherWar')
+
+~/.config/AnotherWar/save1.dat
+
+
+ ~/.config/ApplicationName/ on Linux
+ $HOME\Application Settings\ApplicationName on Windows
+ ~/Library/Application Support/ApplicationName on Mac OS X
+

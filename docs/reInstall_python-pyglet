@@ -1,0 +1,6 @@
+
+# " If problems with AVbin or python/pyglet enter commands in terminal : "
+
+sudo apt-get install --reinstall python3
+
+pip install --force-reinstall pyglet
